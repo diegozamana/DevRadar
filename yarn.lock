@@ -7924,8 +7924,8 @@ npm-pick-manifest@^6.0.0:
     semver "^7.0.0"
 
 npm-registry-fetch@^8.0.0, npm-registry-fetch@^8.0.3:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/npm-registry-fetch/-/npm-registry-fetch-8.1.0.tgz#1d5c229b82412414b9c63cde040b51981db76904"
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/npm-registry-fetch/-/npm-registry-fetch-8.1.1.tgz#1d5c229b82412414b9c63cde040b51981db76904"
   integrity sha512-RkcugRDye2j6yEiHGMyAdKQoipgp8VToSIjm+TFLhVraXOkC/WU2kjE2URcYBpcJ4hs++VFBKo6+Zg4wmrS+Qw==
   dependencies:
     "@npmcli/ci-detect" "^1.0.0"
